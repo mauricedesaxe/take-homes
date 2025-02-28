@@ -1,7 +1,7 @@
 # Connect to program take home
 
 We’ll want you to connect to a [version of the Solana progam we’re developing which is deployed on devnet](https://solscan.io/account/8icXpLgEgEVVbvhTAgL7W7AUMZbaUh1UJ1czMiQXCuVE?cluster=devnet).
-We’ll provide you with the correct IDL and auto-generated TS types (as off right now).
+The IDL is at `frontend/staking_devnet.json` and the auto-generated TS types are at `frontend/staking_devnet.ts`.
 
 If you can configure the current frontend you already have to this program and add a form so users can call `stake()` and deposit their PGN ([as deployed here on devnet](https://solscan.io/token/6nTZUieY9foTJWxtXPtvDzDoocoCZYEsiRWcAhUg1WjC?cluster=devnet)) you’re all good.
 
